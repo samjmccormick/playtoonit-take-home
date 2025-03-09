@@ -10,4 +10,19 @@
 
 #avatar {
   border-radius: 50%;
+  background-color: gray;
+}
+
+.header,
+.footer {
+  background-color: white;
+  height: 50px;
+}
+
+.btn {
+  background-color: rgb(255, 166, 0);
+  border-radius: 20px;
+  color: white;
+  font-style: bold;
+  font-weight: 600;
 }
