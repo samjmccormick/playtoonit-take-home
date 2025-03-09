@@ -1,0 +1,13 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  height: 100%;
+}
+
+#avatar-container {
+  border-radius: 10px;
+}
+
+#avatar {
+  border-radius: 50%;
+}
